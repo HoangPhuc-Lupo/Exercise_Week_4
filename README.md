@@ -1,6 +1,6 @@
 # exerciseweek4
 
-A new Flutter project.
+Vào folder Picture để xem hình demo app
 
 ## Getting Started
 
